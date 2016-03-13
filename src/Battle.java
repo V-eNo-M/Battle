@@ -42,7 +42,7 @@ public class Battle {
         printResult();
     }
 
-    //Выводим результат в консоль.
+        //Выводим результат в консоль.
     private void printResult() {
         System.out.println(result);
     }
